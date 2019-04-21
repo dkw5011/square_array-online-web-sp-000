@@ -7,5 +7,5 @@ def square_array(array)
   squared_array << (squared_number)
   
 end
-
+binding.pry
 end
