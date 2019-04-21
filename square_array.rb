@@ -4,6 +4,7 @@ def square_array(array)
   squared_number = (number * number)
   squared_array = []
   squared_array << (squared_number)
+  
 end
-binding.pry
+
 end
